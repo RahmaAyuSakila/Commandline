@@ -15,4 +15,4 @@ Penjelasan:
 -	Menandakan akhir dari loop
 Output: 
 Program akan mencetak teks berikut di terminal: Command 1-50
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f9e869ba-0220-4c85-b7cf-06ea0d08b528)
